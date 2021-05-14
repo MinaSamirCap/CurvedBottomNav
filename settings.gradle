@@ -1,0 +1,2 @@
+rootProject.name = "Bottom Nav Circle"
+include ':app'
